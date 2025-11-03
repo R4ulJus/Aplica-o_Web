@@ -1,0 +1,31 @@
+{
+  "name": "aplica-o_web",
+  "version": "1.0.0",
+  "description": "Aplicação web",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R4ulJus/Aplica-o_Web.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "express",
+    "http",
+    "post"
+  ],
+  "author": "Raul Cordeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R4ulJus/Aplica-o_Web/issues"
+  },
+  "homepage": "https://github.com/R4ulJus/Aplica-o_Web#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
