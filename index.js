@@ -9,7 +9,7 @@ server.use(express.urlencoded({extended: true}));
 
 
 
-server.get("/cadastroUsuario", (req, res) => {
+server.get("/", (req, res) => {
     res.send(`
 <!DOCTYPE html>
 <html>
